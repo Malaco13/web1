@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Kebab Pa</title>
+<subtitle>El mejor Kebab del mundo</subtitle>
+<link href="https://malaco13.github.io/web1"/>
+<updated>2006-03-19T04:00:00Z</updated>
+<author>
+<name>Francisco Porcuna</name>
+</author>
+<id>https://malaco13.github.io/web1</id>
+<entry>
+<title>Historia</title>
+<updated>2006-03-19T04:00:00Z</updated>
+<link href="https://malaco13.github.io/web1/html/historia.html"/>
+<id>https://malaco13.github.io/web1/html/historia.html</id>
+<summary>Historia del kebab</summary>
+<content>Esto es sobre la Historia de nuestro Kebab</content>
+<author>
+<name>Francisco Porcuna</name>
+</author>
+</entry>
+
+<entry>
+<title>Información</title>
+<updated>2019-01-18T04:00:00Z</updated>
+<link href="https://malaco13.github.io/web1/index.html"/>
+<id>https://malaco13.github.io/web1/index.html</id>
+<summary>Información del kebab</summary>
+<content>Esto es sobre la información de nuestro Kebab</content>
+<author>
+<name>Francisco Porcuna</name>
+</author>
+</entry>
+
+<entry>
+<title>Fotos</title>
+<updated>2019-01-16T04:00:00Z</updated>
+<link href="https://malaco13.github.io/web1/html/multimedia.html"/>
+<id>https://malaco13.github.io/web1/html/multimedia.html</id>
+<summary>Fotos del kebab</summary>
+<content>Esto es sobre las fotos y videos de nuestro Kebab</content>
+<author>
+<name>Francisco Porcuna</name>
+</author>
+</entry>
+</feed>
