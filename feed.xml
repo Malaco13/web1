@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" >
+<channel>
+<title>Kebab Pa</title>
+<link>https://malaco13.github.io/web1/</link>
+<description>Esta es una pagina sobre el mejor kebab del mundo</description>
+<language>es-ES</language>
+<managingEditor>malacolata@gmail.com</managingEditor>
+<webMaster>malacolata@gmail.com</webMaster>
+<ttl>60</ttl>
+
+	<item>
+	<title>Algo de historia </title>
+	<link>https://malaco13.github.io/web1/html/historia.html</link>
+	<description>Dos españoles tenían una práctica que consistía en crear una página web, 
+	y decidieron crear una página de un kebab. </description>
+	<guid>https://malaco13.github.io/web1/html/historia.html</guid>
+	</item>
+
+	<item>
+	<title>Algo de Fotos </title>
+	<link>https://malaco13.github.io/web1/html/multimedia.html</link>
+	<description>Aquí se mustra alggunas fotos y videos de la creación de nuestro kebab </description>
+	<guid>https://malaco13.github.io/web1/html/multimedia.html</guid>
+	</item>
+
+	<item>
+	<title>Información </title>
+	<link>https://malaco13.github.io/web1/index.html</link>
+	<description>Aqui se muestra la pagina principal </description>
+	<guid>https://malaco13.github.io/web1/index.html</guid>
+	</item>
+
+</channel>
+</rss>
